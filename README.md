@@ -4,7 +4,7 @@ My second app using Flutter. Designed for Pixel 2 device screen.
 Capabilities :
 - Add transactions with title, amount, date and unique ID
 - Delete transactions
-![ Alt text](gif. gif) / ! [](gif. gif)
+![ Alt text](gif.gif) / ! [](gif.gif)
 - Shows chart that gives a rough estimate of your spending throughout the past 7 days
 
 ## Getting Started
