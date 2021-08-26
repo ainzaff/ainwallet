@@ -4,7 +4,7 @@ My second app using Flutter. Designed for Pixel 2 device screen.
 
 Homepage :
 
-![ Alt text](basewallet.png) [](basewallet.png)
+![ Alt text](basewallet.PNG) [](basewallet.PNG)
 
 
 Capabilities :
@@ -12,6 +12,8 @@ Capabilities :
 - Add transactions with title, amount, date and unique ID
 
 ![ Alt text](addtx.gif) [](addtx.gif)
+
+
 ![ Alt text](date.gif) [](date.gif)
 
 - Complete error handling (Requires input to confirm)
