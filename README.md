@@ -2,12 +2,12 @@
 
 My second app using Flutter. Designed for Pixel 2 device screen.
 
-Homepage :
+[h1]Homepage[/h1]
 
 ![ Alt text](basewallet.PNG) [](basewallet.PNG)
 
 
-Capabilities :
+[h1]Capablities[/h1]
 
 - Add transactions with title, amount, date and unique ID
 
